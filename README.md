@@ -1,6 +1,6 @@
 
 
-github改成fastgit，只有maooxp2.json改了
+CH猫友测试配置接口 https://freed.yuanhsing.cf/maoocf2.json，后续该域名没异常就不更新了。
 
 
 
